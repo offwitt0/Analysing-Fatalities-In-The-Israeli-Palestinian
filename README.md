@@ -28,6 +28,8 @@
 ### Victim Profiles
    Create profiles of the victims based on the available data such as age, gender, citizenship, and place of residence. Identify common characteristics among the victims.
 
+![image](https://github.com/offwitt0/Analysing-Fatalities-In-The-Israeli-Palestinian/assets/81443480/9a69211e-0c2e-4f5d-9df8-729e590525db)
+
 Data Link
     https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data
 
